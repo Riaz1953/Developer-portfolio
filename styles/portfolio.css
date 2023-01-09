@@ -1,0 +1,26 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+.btn-primary{
+    height: 64px;
+}
+span{
+    color: darkgoldenrod;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+nav ul{
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
